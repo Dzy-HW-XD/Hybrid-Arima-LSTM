@@ -1,6 +1,13 @@
 # Hybrid-Arima-attention based LSTM对S&P500股票进行预测
 
-## 数据选择：sp500index, AAL, ABC
+## 数据选择：
+
+ 数据集名称  | 数据大小 | 训练集 | 测试集
+ ---- | ----- |
+ SP500 Index  | 6755 | 6000 | 755
+ AAL  | 1259 | 1000 | 259
+ ABC  | 1259 | 1000 | 259
+
 
 ### Pure ARIMA 
 ![sp500](https://github.com/Dzy-HW-XD/Hybrid-Arima-LSTM/raw/main/results_figures/pure_ARIMA_sp500_overall.png) 
