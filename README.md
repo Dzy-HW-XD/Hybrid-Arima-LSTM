@@ -14,5 +14,5 @@
 
 ### Hybrid
 ![sp500](https://github.com/Dzy-HW-XD/Hybrid-Arima-LSTM/blob/main/results_figures/hybird_sp500_overall.png) 
-![AAL](https://github.com/Dzy-HW-XD/Hybrid-Arima-LSTM/raw/main/results_figures/hybrid_AAL_overall.png) 
-![ABC](https://github.com/Dzy-HW-XD/Hybrid-Arima-LSTM/raw/main/results_figures/hybrid_ABC_overall.png) 
+![AAL](https://github.com/Dzy-HW-XD/Hybrid-Arima-LSTM/blob/main/results_figures/hybird_AAL_overall.png) 
+![ABC](https://github.com/Dzy-HW-XD/Hybrid-Arima-LSTM/blob/main/results_figures/hybird_ABC_overall.png) 
