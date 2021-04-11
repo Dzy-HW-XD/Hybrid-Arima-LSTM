@@ -8,6 +8,8 @@
  | AAL  | 1259 | 1000 | 259 |
  | ABC  | 1259 | 1000 | 259 |
 
+### Results Table 
+![resulttable](https://github.com/Dzy-HW-XD/Hybrid-Arima-LSTM/blob/main/results_tables.jpg)
 
 ### Pure ARIMA 
 ![sp500](https://github.com/Dzy-HW-XD/Hybrid-Arima-LSTM/raw/main/results_figures/pure_ARIMA_sp500_overall.png) 
@@ -23,3 +25,5 @@
 ![sp500](https://github.com/Dzy-HW-XD/Hybrid-Arima-LSTM/blob/main/results_figures/hybird_sp500_overall.png) 
 ![AAL](https://github.com/Dzy-HW-XD/Hybrid-Arima-LSTM/blob/main/results_figures/hybird_AAL_overall.png) 
 ![ABC](https://github.com/Dzy-HW-XD/Hybrid-Arima-LSTM/blob/main/results_figures/hybird_ABC_overall.png) 
+
+
