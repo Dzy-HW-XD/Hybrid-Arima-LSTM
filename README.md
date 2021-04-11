@@ -4,6 +4,6 @@
 
 ### Pure ARIMA 
 
-![sp500index](https://github.com/Dzy-HW-XD/Hybrid-Arima-LSTM/tree/main/results_figures/pure_ARIMA_sp500_overall.png) 
-![AAL](https://github.com/Dzy-HW-XD/Hybrid-Arima-LSTM/tree/main/results_figures/pure_ARIMA_AAL_overall.png) 
-![ABC](https://github.com/Dzy-HW-XD/Hybrid-Arima-LSTM/tree/main/results_figures/pure_ARIMA_ABC_overall.png) 
+[sp500index](https://github.com/Dzy-HW-XD/Hybrid-Arima-LSTM/tree/main/results_figures/pure_ARIMA_sp500_overall.png) 
+[AAL](https://github.com/Dzy-HW-XD/Hybrid-Arima-LSTM/tree/main/results_figures/pure_ARIMA_AAL_overall.png) 
+[ABC](https://github.com/Dzy-HW-XD/Hybrid-Arima-LSTM/tree/main/results_figures/pure_ARIMA_ABC_overall.png) 
