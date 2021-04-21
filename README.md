@@ -1,4 +1,4 @@
-# 简单说明
+# 基于Hybrid ARIMA-Attention based LSTM S&P500股票预测
 自2003年Zhang(https://www.sciencedirect.com/science/article/abs/pii/S0925231201007020) 先生将基于传统统计的ARIMA与神经网络结合以来，人们开始思考线性模型与非线性模型结合的可能性。此次实验，得益于近年深度学习的飞速发展，更优秀性能的非线性模型的出现让我们能够站在巨人的肩膀上继续前行，本次实验，我们将对Hybrid-Arima-attention based LSTM与其他prue模型(Prue ARIMA,Prue LSTM, Prue LSTM-Attention)在时序预测任务上的表现进行评估，对比，总结。
 
 
