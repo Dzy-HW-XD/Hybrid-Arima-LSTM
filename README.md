@@ -1,4 +1,21 @@
 # Hybrid-Arima-attention based LSTM对S&P500股票进行预测
+## Abstract
+
+Forecasting task based on time-sequential data is
+a hot topic in various domains such as, finance, urban management, astronomical forecasting. Very
+recently, the superiority of deep learning has
+gained increasing attention in forecasting task.
+Long Short-Term Memory(LSTM), as a recurrent model naturally has the ability to handle
+time series forecasting task and present a state of
+art performance. In this report, we treat LSTM
+as the baseline model and improved it through
+two ways: data enhancement and model structure
+improvement. The idea of data enhancement is inspired from (Zhang, 2003), which establish a superior hybrid model composed of Autoregressive
+integrated moving average(ARIMA) and LSTM.
+The idea of model structure improvement is inspired from (Qin et al., 2017b) which import the
+attention mechanism. We will apply them to SP
+500 dataset an the performance will be evaluated
+by comparing with baseline.
 
 ## 数据选择：
 
